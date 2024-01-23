@@ -1,2 +1,3 @@
 const student = ['Andrey', 'Ivan','Semen'];
-console.log(students);
+student[5] = 'Nikita';
+console.log(student[5]);
