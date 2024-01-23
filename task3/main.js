@@ -1,2 +1,2 @@
-const college = [["Ivan","Andrey", "Vova"], ["Dasha", "Sasha", "Pasha"]];   
-console.log(college);
+const cars = ["KIA","NISSAN", "LADA"] ["BMW", "MERSEDES", "MITSUBISHI"]
+console.log(cars);
