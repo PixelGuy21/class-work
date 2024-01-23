@@ -1,3 +1,2 @@
-const student = ['Andrey', 'Ivan','Semen'];
-student[5] = 'Nikita';
-console.log(student[5]);
+const college = [["Ivan","Andrey", "Vova"], ["Dasha", "Sasha", "Pasha"]];   
+console.log(college);
