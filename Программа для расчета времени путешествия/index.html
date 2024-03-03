@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Калькулятор расчёта времени</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="time">
+        <h2>Расчёт времени</h2>
+        <label for="distance">Расстояние</label>
+        <input type="number" id="distance" placeholder="Введите расстояние">
+        <label for="speed">Скорость</label>
+        <input type="number" id="speed" placeholder="Введите скорость">
+        <button onclick="calculateTime()">Посчитать</button>
+        <div id="result"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
